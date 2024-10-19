@@ -19,33 +19,33 @@ Passo a Passo de Instalação
 Clone o repositório: Abra o terminal ou prompt de comando e execute o seguinte comando para clonar o repositório:
 
 bash
-Copiar código
+
 git clone https://github.com/seu-usuario/task-manager-api.git
 Navegue até o diretório do projeto:
 
 bash
-Copiar código
+
 cd task-manager-api
 Instale as dependências: Para instalar todas as dependências necessárias, execute o comando abaixo:
 
 bash
-Copiar código
+
 npm install
 ou, se estiver usando yarn:
 
 bash
-Copiar código
+
 yarn install
 Rodando o Servidor
 Após instalar as dependências, você pode iniciar o servidor local com o comando:
 
 bash
-Copiar código
+
 npm start
 ou, se estiver usando yarn:
 
 bash
-Copiar código
+
 yarn start
 O servidor será iniciado em http://localhost:3000.
 
@@ -64,11 +64,11 @@ Comandos para Rodar o Projeto e os Testes
 Rodando o Projeto
 Para rodar a API localmente:
 bash
-Copiar código
+
 npm start
 ou
 bash
-Copiar código
+
 yarn start
 Isso iniciará o servidor local na porta 3000.
 
@@ -77,11 +77,11 @@ A API foi configurada para ser testada com o Jest e o Supertest, garantindo que 
 
 Para rodar os testes automatizados:
 bash
-Copiar código
+
 npm test
 ou
 bash
-Copiar código
+
 yarn test
 Os testes cobrem todos os endpoints de CRUD (Criar, Ler, Atualizar e Deletar) para garantir que eles estão funcionando conforme o esperado.
 
