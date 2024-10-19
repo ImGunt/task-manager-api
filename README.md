@@ -1,7 +1,7 @@
 # Task Manager API
 
-A simple task management API that allows users to create, view, update, and delete tasks (CRUD). 
+Uma API simples de gerenciamento de tarefas que permite aos usuários criar, visualizar, atualizar e deletar tarefas (CRUD).
 
-## Technologies
+## Tecnologias
 - Node.js
 - Express.js
